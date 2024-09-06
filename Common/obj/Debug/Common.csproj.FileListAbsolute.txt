@@ -1,0 +1,6 @@
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\bin\Debug\Common.dll
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\bin\Debug\Common.pdb
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\obj\Debug\Common.dll
+F:\CODE\NET_CORE\AWARD_MANAGER\AWARD_TITLE_MANAGER\Common\obj\Debug\Common.pdb
